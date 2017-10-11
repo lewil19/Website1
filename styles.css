@@ -3,22 +3,30 @@ img {
 }
 
 h1 {
-    text-align: center;
+    text-decoration: underline;
     font-family: cursive;
+    color: #fff;
+    text-shadow: 2px 2px #000;
 }
 
-li {
+ul {
     font-family: fantasy;
-    text-align: left
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px #000;
 }
 
 p {
     text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px #000;
 }
 
 a {
-    color: rgb(0,255,255);
+    color: #0000EE;
+    text-shadow: 1px 1px #000;
 }
 body {
     text-align: center;
+    background-image: url("http://www.thegearcaster.com/wp-content/uploads/Bamboo_Forest.jpg");
 }
